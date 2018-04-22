@@ -16,10 +16,9 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 50px 25px;
+    padding: 50px 25px 100px 20px;
     text-decoration: unset;
     font-size: 25px;
-	 padding-right: 100px;
     float: left;
 
 }
