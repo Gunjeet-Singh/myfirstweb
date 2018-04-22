@@ -12,11 +12,7 @@
 }
 
 
-li {
-   float: left;
-}
-
-li a {
+.topnav a {
     display: block;
     color: white;
     text-align: center;
@@ -24,11 +20,11 @@ li a {
     text-decoration: unset;
     font-size: 25px;
 	 padding-right: 100px;
-
+    float: left;
 
 }
 
-li a:hover:not(.active) {
+.topnav a:hover:not(.active) {
     background-color: #DEB887;
 }
 
